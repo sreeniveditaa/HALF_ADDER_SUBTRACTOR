@@ -79,3 +79,4 @@ endmodule
 ![image](https://github.com/sreeniveditaa/HALF_ADDER_SUBTRACTOR/assets/147473268/2c3dc85a-e072-4a2d-bf43-432f42413ef1)
 
 **Result:**
+Executed Successfully.
